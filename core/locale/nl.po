@@ -1372,7 +1372,7 @@ msgstr "Kopieer pagina"
 
 #: core/templates/more.tmpl:35
 msgid "Copy topic..."
-msgstr "Pagina kopie&eum;ren..."
+msgstr "Pagina kopi&#235;ren..."
 
 #: core/data/System/DefaultPreferences.txt:40
 msgid ""
