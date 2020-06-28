@@ -1865,7 +1865,7 @@ msgstr "Fout tijdens het toevoegen van leden naar de groep"
 
 #: core/templates/registermessages.tmpl:439
 msgid "Errors removing members from groups"
-msgstr "Fout tijdens het verwijderen von leden uit groepen"
+msgstr "Fout tijdens het verwijderen van leden uit groepen"
 
 #: NatEditPlugin/templates/edittoolbar.natedit.tmpl:131
 msgid "Escape markup"
